@@ -1,0 +1,7 @@
+seed: 42
+data:
+  test_size: 0.2
+model:
+  type: rf
+  n_estimators: 300
+  max_depth: 6
